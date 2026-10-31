@@ -91,10 +91,6 @@ I'm an engineering student who builds **AI-powered products end to end**, from t
   <img src="https://streak-stats.demolab.com?user=Webs4Dev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Webs4Dev&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
-</p>
-
 ---
 
 <p align="center">
