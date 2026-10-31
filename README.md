@@ -63,14 +63,44 @@ I'm an engineering student who builds **AI-powered products end to end**, from t
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🛡️ [**ClaimFile**](https://github.com/Webs4Dev/claim-file) | Motor insurance claim processing: a LangGraph pipeline of AI agents checks documents, extracts facts and verifies them against the policy with RAG, with a human reviewer making the final call. | Python · LangGraph · FastAPI · React · Redis · Chroma |
-| 🔬 [**Open Research**](https://github.com/Webs4Dev/open-research) | Open-source multi-agent platform for retrieving, ranking, explaining and analysing research papers. | TypeScript · Multi-agent LLMs |
-| 📄 [**ResumeLens**](https://github.com/Webs4Dev/resume-lens) | Combines ATS concepts with semantic search and evidence-grounded AI to show how a resume really matches a job description. | JavaScript · Semantic search · LLMs |
-| ⚡ [**LLMForge**](https://github.com/Webs4Dev/llm-forge) | A lab for understanding and optimising production LLM systems through controlled experiments. | Python · LLMs |
-| 🏥 [**ClinicAssist**](https://github.com/Webs4Dev/clinic-assist) | AI patient journey and clinic automation: intelligent triage, doctor routing, appointment scheduling, emergency detection and patient communication. | JavaScript · LLMs |
-| 🚨 [**CyberWatch**](https://github.com/Webs4Dev/cyber-watch) | Deep learning model that classifies network traffic, simulates attacks in real time and visualises threats on a React dashboard. | Deep learning · React |
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🛡️ <a href="https://github.com/Webs4Dev/claim-file">ClaimFile</a></h3>
+<p>Motor insurance claims handled by a LangGraph pipeline of AI agents that check documents, extract facts and verify them against the policy with RAG. A human reviewer makes the final call.</p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Chroma-FF6446?style=flat-square" /></p>
+</td>
+<td width="50%" valign="top">
+<h3>🔬 <a href="https://github.com/Webs4Dev/open-research">Open Research</a></h3>
+<p>Open-source multi-agent platform for retrieving, ranking, explaining and analysing research papers.</p>
+<p><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Multi--agent-6E40C9?style=flat-square" /> <img src="https://img.shields.io/badge/LLMs-6E40C9?style=flat-square" /></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📄 <a href="https://github.com/Webs4Dev/resume-lens">ResumeLens</a></h3>
+<p>ATS concepts plus semantic search and evidence-grounded AI, showing how well a resume really matches a job description.</p>
+<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Semantic_search-0A7EA4?style=flat-square" /> <img src="https://img.shields.io/badge/LLMs-6E40C9?style=flat-square" /></p>
+</td>
+<td width="50%" valign="top">
+<h3>⚡ <a href="https://github.com/Webs4Dev/llm-forge">LLMForge</a></h3>
+<p>A lab for understanding and optimising production LLM systems through controlled experiments.</p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/LLMs-6E40C9?style=flat-square" /></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🏥 <a href="https://github.com/Webs4Dev/clinic-assist">ClinicAssist</a></h3>
+<p>Clinic automation with intelligent triage, doctor routing, appointment scheduling, emergency detection and patient communication.</p>
+<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/LLMs-6E40C9?style=flat-square" /></p>
+</td>
+<td width="50%" valign="top">
+<h3>🚨 <a href="https://github.com/Webs4Dev/cyber-watch">CyberWatch</a></h3>
+<p>A deep learning model classifies network traffic, simulates attacks in real time and visualises threats on a live dashboard.</p>
+<p><img src="https://img.shields.io/badge/Deep_learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" /></p>
+</td>
+</tr>
+</table>
 
 <details>
 <summary><b>More projects</b></summary>
